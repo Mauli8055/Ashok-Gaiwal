@@ -68,5 +68,3 @@ Welcome to **Ashok Gaiwal**, a **Full-Stack Java Development** repository inspir
 
 ---
 
-![Coding GIF](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
-
