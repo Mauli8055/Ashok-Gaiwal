@@ -57,9 +57,6 @@ Welcome to **Ashok Gaiwal**, a **Full-Stack Java Development** repository inspir
 ---
 
 ## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshokGaiwal&show_icons=true&theme=tokyonight)
-
 ---
 
 ## 📊 Top Languages
