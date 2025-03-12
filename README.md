@@ -55,15 +55,3 @@ Welcome to **Ashok Gaiwal**, a **Full-Stack Java Development** repository inspir
 ✅ **Optimized SQL Queries for High Performance**  
 
 ---
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashok-Gaiwal&show_icons=true&theme=tokyonight)
-
----
-
-## 📊 Top Languages
-
----
-
----
-
