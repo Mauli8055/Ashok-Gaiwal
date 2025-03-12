@@ -1,10 +1,8 @@
-# Ashok-Gaiwal
-# 🚀 VisvesvarayaCode  
+# 🚀  Ashok-Gaiwal
 
 **"Engineering is the art of directing the great sources of power in nature for the use and convenience of man."**  
-— Sir M. Visvesvaraya  
 
-Welcome to **VisvesvarayaCode**, a **Full-Stack Java Development** repository inspired by the legendary Indian engineer **Sir M. Visvesvaraya**. This repo is a hub for **enterprise-grade backend solutions, dynamic web applications, and database-driven projects** using modern Java technologies. 
+Welcome to **Ashok Gaiwal**, a **Full-Stack Java Development** repository inspired by the legendary Indian engineer **Ashok Gaiwal**. This repo is a hub for **enterprise-grade backend solutions, dynamic web applications, and database-driven projects** using modern Java technologies. 
 
 
 ---
@@ -65,8 +63,6 @@ Welcome to **VisvesvarayaCode**, a **Full-Stack Java Development** repository in
 ---
 
 ## 📊 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VisvesvarayaCode&layout=compact&theme=tokyonight)
 
 ---
 
